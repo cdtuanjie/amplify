@@ -68,16 +68,27 @@ title: 愚人节被强拆犯法吗? 成都市三环内主城区竟然遭遇强�
 
 `愚人节,当真是愚人吗?能给老爷子一个公道吗?`
 
-**位置**
-![](1.png)
+**位置**  
 
-**这是强拆之前的图片**
-![](origin.jpeg)
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/1.png" width="80%" height="80%">
 
-**这是强拆之后的图片**
-![](2.jpeg)
-![](3.jpeg)
-![](4.jpeg)
-![](5.jpeg)
-![](6.jpeg)
-![](7.jpeg)
+**这是强拆之前的图片**  
+
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/origin.jpeg" width="80%" height="80%">
+
+**这是强拆之后的图片**  
+
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/2.jpeg" width="80%" height="80%">
+
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/3.jpeg" width="80%" height="80%">
+
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/4.jpeg" width="80%" height="80%">
+
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/5.jpeg" width="80%" height="80%">
+
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/6.jpeg" width="80%" height="80%">
+
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/7.jpeg" width="80%" height="80%">
+
+
+
