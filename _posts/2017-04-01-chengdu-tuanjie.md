@@ -70,7 +70,7 @@ title: 愚人节被强拆犯法吗? 成都市三环内主城区竟然遭遇强�
 
 **位置**  
 
-<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/1.png" width="80%" height="80%">
+<img src="https://github.com/cdtuanjie/cdtuanjie.github.io/raw/master/_posts/1.png" width="70%" height="70%">
 
 **这是强拆之前的图片**  
 
